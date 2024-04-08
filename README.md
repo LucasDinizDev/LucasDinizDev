@@ -15,18 +15,9 @@ Aqui estão as linguagens que eu mais utilizo nos meus projetos:
 5. TypeScript
 6. PHP
 7. C#
-
-## Repositórios em Destaque
-
-Aqui estão alguns dos meus repositórios mais populares:
-
-1. [Nome do Projeto](link): Breve descrição do projeto e principais recursos.
-2. [Nome do Projeto](link): Breve descrição do projeto e principais recursos.
-3. [Nome do Projeto](link): Breve descrição do projeto e principais recursos.
-
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasDinizDev&show_icons=true&theme=dark)
 
 ## Contribuições
 
