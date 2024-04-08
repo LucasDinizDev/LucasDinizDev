@@ -2,7 +2,8 @@
 
 Este é um dashboard que exibe as linguagens que eu mais uso em meus repositórios no GitHub.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDinizDev&layout=compact)](https://github.com/LucasDinizDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDinizDev&layout=compact&theme=dark)](https://github.com/LucasDinizDev)
+
 
 ## Linguagens Mais Utilizadas
 
